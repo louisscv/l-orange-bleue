@@ -17,7 +17,7 @@ padding-left: 0px;}
 
 /* custum design with class */
 .container {
-    width: 700px;
+    width: 600px;
     margin: 40px auto;}
 
 .ul {
@@ -25,7 +25,7 @@ padding-left: 0px;}
 
 
 .list-inline i {
-    font-size: 400px;
+    font-size: 200px;
 padding-left: 0px;
 padding-right: 40px;
 color :#ff7b0a;
